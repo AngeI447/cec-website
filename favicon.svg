@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CEC">
+  <rect width="64" height="64" rx="14" fill="#0F1720"/>
+  <text x="32" y="33" text-anchor="middle" dominant-baseline="central"
+        font-family="Inter, Arial, sans-serif" font-weight="700" font-size="26"
+        letter-spacing="-1" fill="#FFFFFF">C<tspan fill="#F5A524">E</tspan>C</text>
+  <rect x="18" y="46" width="28" height="4" rx="2" fill="#F5A524"/>
+</svg>
